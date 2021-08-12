@@ -1,11 +1,14 @@
 from selenium import webdriver
 import time
+from math import floor
+from selenium.common.exceptions import NoSuchElementException
 
 driver = webdriver.Firefox()
-
-url = "https://yokatlas.yok.gov.tr/2019/lisans.php?y=100711046"
+url = "https://yokatlas.yok.gov.tr/lisans-anasayfa.php"
 
 driver.get(url)
+
+
 
 def bolumBilgiAl2020():
 
@@ -14,9 +17,9 @@ def bolumBilgiAl2020():
     sagGenel=[]
 
 
-    myBtn = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[7]/div/div[2]/div")
+    myBtn = driver.find_element_by_css_selector("#headingOne > a:nth-child(1) > h4:nth-child(2)")
     myBtn.click()
-    time.sleep(2)
+    time.sleep(3)
 
 
     elementsRight = driver.find_elements_by_css_selector('.vert-align')
@@ -38,7 +41,7 @@ def bolumBilgiAl2020():
         print(key, ' : ', value)
 
     myBtn.click()
-
+    """
     print ("************** Kontenjan İstatistikleri *********************") #hangi veriler lazım?
 
     solKontenjan=[]
@@ -336,7 +339,7 @@ def bolumBilgiAl2020():
     print ("Net İstatistikleri:")
     for key, value in netDict.items():
         print(key, ' : ', value)
-    myBtn.click()
+    driver.execute_script("arguments[0].click();", myBtn)
 
     print ("************** Tercih Edilme İstatistikleri *********************") #hangi veriler lazım?
 
@@ -378,7 +381,8 @@ def bolumBilgiAl2020():
     print ("Tercih Edilme İstatistikleri:")
     for key, value in tercihEdilmeDict.items():
         print(key, ' : ', value)
-    myBtn.click()
+
+    driver.execute_script("arguments[0].click();", myBtn)
 
     print ("************** Yerleşenlerin Tercih Sıraları *********************") #hangi veriler lazım?
 
@@ -576,18 +580,19 @@ def bolumBilgiAl2020():
     for key, value in programDict.items():
         print(key, ' : ', value)
     myBtn.click()
-
+"""
 def bolumBilgiAl2019():
 
     print ("************** Genel Bilgiler *********************")
     solGenel=[]
     sagGenel=[]
+    try:
+        myBtn = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[7]/div/div[1]/div[1]/a/h4")
+        driver.execute_script("arguments[0].click();",myBtn)
+        time.sleep(2)
 
-
-    myBtn = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[7]/div/div[1]/div")
-    myBtn.click()
-    time.sleep(1)
-
+    except NoSuchElementException:
+        pass
 
 
     elementsRight = driver.find_elements_by_css_selector('.vert-align')
@@ -603,13 +608,12 @@ def bolumBilgiAl2019():
     print("sol liste: "+str(len(solGenel)))
 
     genelBilgiler = dict(zip(solGenel, sagGenel))
-
     print ("Genel Bilgiler:")
+
     for key, value in genelBilgiler.items():
         print(key, ' : ', value)
 
-    myBtn.click()
-
+    """
     print ("************** Kontenjan İstatistikleri *********************") #hangi veriler lazım?
 
     solKontenjan=[]
@@ -1138,18 +1142,95 @@ def bolumBilgiAl2019():
     for key, value in programDict.items():
         print(key, ' : ', value)
     myBtn.click()
+"""
+btn1 = driver.find_element_by_xpath("/html/body/div/div[2]/div/div[1]/div[1]/div/form/div/div/div/button")
+btn1.click()
+time.sleep(1)
 
-for i in [1,2,3]:
-    yıl = 2018
-    print("****************** "+str(yıl)+" ********************")
-    btn2020 = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[6]/div[2]/h2/strong/a["+str(i)+"]")
-    driver.execute_script("arguments[0].click();", btn2020)
-    time.sleep(1)
-    if i == 3:
-        bolumBilgiAl2020()
+btn2 = driver.find_element_by_class_name("opt")
+uniName = btn2.text
+btn2.click()
+time.sleep(1)
+
+btn3Num = len(list(driver.find_elements_by_class_name("btn")))
+print(floor(int((btn3Num)/2+1)))
+print(list(range(1, floor(int((btn3Num)/2+1)))))
+
+#sayfanın solu
+# for i in list(range(1, floor(int((btn3Num)/2+1)))):
+#     btn3 = driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div/div[1]/div/div["+str(i)+"]/div/h4/a/div")
+#     bolumName = btn3.text
+#     driver.execute_script("arguments[0].click();", btn3)
+#     time.sleep(2)
+#     for i in [3,2,1]:
+#         btn2020 = driver.find_element_by_css_selector("a.label:nth-child("+str(i)+") > font:nth-child(1)")
+#         yil = btn2020.text
+#         print(uniName+" "+" "+bolumName+" "+" "+yil)
+#         driver.execute_script("arguments[0].click();", btn2020)
+#         time.sleep(2)
+#         if i == 3:
+#             bolumBilgiAl2020()
+#             time.sleep(2)
+#
+#         else:
+#             bolumBilgiAl2019()
+#             time.sleep(2)
+#
+#     driver.execute_script("window.history.go(-3)")
+#     time.sleep(2)
+
+print(floor(int((btn3Num)/2+1)))
+print(list(range(1, floor(int((btn3Num)/2+1)))))
+
+#sayfanın sağı
+for i in list(range(5, floor(int((btn3Num)/2+1)))):
+    btn3 = driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div/div[2]/div/div["+str(i)+"]/div/h4/a/div")
+    bolumName = btn3.text
+    driver.execute_script("arguments[0].click();", btn3)
+    time.sleep(2)
+    exeptionExist = False
+    for i in [3,2,1]:
+        try:
+            btn2020 = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[6]/div[2]/h2/strong/a[" + str(i) + "]")
+            yil = btn2020.text
+            print(uniName + " " + " " + bolumName + " " + " " + yil)
+            driver.execute_script("arguments[0].click();", btn2020)
+            time.sleep(2)
+
+        except NoSuchElementException:
+            exeptionExist = True
+            pass
+
+
+        # btn2020 = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[6]/div[2]/h2/strong/a[" + str(i) + "]")
+        # yil = btn2020.text
+        # print(uniName+" "+" "+bolumName+" "+" "+yil)
+        # driver.execute_script("arguments[0].click();", btn2020)
+        # time.sleep(2)
+        if i == 3:
+            bolumBilgiAl2020()
+            time.sleep(2)
+        else:
+            bolumBilgiAl2019()
+            time.sleep(2)
+    if exeptionExist == True:
+        driver.execute_script("window.history.go(-2)")
+        time.sleep(2)
     else:
-        bolumBilgiAl2019()
-    yıl += 1
+        driver.execute_script("window.history.go(-3)")
+driver.execute_script("window.history.go(-1)")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

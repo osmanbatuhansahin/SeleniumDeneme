@@ -3304,3 +3304,1324 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1628752078053	geckodriver	INFO	Listening on 127.0.0.1:56621
+1628752081097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileX8Wz7w"
+1628752081518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileX8Wz7w\\search.json.mozlz4", (void 0)))
+1628752083959	Marionette	INFO	Listening on port 56641
+1628752084280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+1628752232266	Marionette	INFO	Stopped listening on port 56641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628752475030	geckodriver	INFO	Listening on 127.0.0.1:57229
+1628752478110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileGTVTri"
+1628752478498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileGTVTri\\search.json.mozlz4", (void 0)))
+1628752480902	Marionette	INFO	Listening on port 57248
+1628752481263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+1628752507261	geckodriver	INFO	Listening on 127.0.0.1:57377
+1628752510304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilebdlQNx"
+1628752510686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilebdlQNx\\search.json.mozlz4", (void 0)))
+1628752513063	Marionette	INFO	Listening on port 57401
+1628752513497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 20: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 20: SyntaxError: expected expression, got '-'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628753267436	Marionette	INFO	Stopped listening on port 57401
+8753036149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilePBTxvG"
+1628753036559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilePBTxvG\\search.json.mozlz4", (void 0)))
+1628753038799	Marionette	INFO	Listening on port 58033
+1628753038838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+1628753063780	geckodriver	INFO	Listening on 127.0.0.1:58144
+1628753066866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileViIq3t"
+1628753067257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileViIq3t\\search.json.mozlz4", (void 0)))
+1628753069400	Marionette	INFO	Listening on port 58163
+1628753069544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628753558786	geckodriver	INFO	Listening on 127.0.0.1:58807
+1628753561848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileTCKbMG"
+1628753562220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileTCKbMG\\search.json.mozlz4", (void 0)))
+1628753564351	Marionette	INFO	Listening on port 58828
+1628753564534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628753753616	Marionette	INFO	Stopped listening on port 58828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4PLT99"
+1628753665583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4PLT99\\search.json.mozlz4", (void 0)))
+1628753668073	Marionette	INFO	Listening on port 59045
+1628753668388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1628753922258	geckodriver	INFO	Listening on 127.0.0.1:59473
+1628753925334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile3JzJlG"
+1628753925707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile3JzJlG\\search.json.mozlz4", (void 0)))
+1628753927765	Marionette	INFO	Listening on port 59492
+1628753928012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+[Parent 7020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628754142702	Marionette	INFO	Stopped listening on port 59492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628754313619	geckodriver	INFO	Listening on 127.0.0.1:60057
+1628754316701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile5l6Fe5"
+1628754317078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile5l6Fe5\\search.json.mozlz4", (void 0)))
+1628754319299	Marionette	INFO	Listening on port 60074
+1628754319366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+1628754392488	geckodriver	INFO	Listening on 127.0.0.1:60239
+1628754395551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilesdvr5h"
+1628754395917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilesdvr5h\\search.json.mozlz4", (void 0)))
+1628754398208	Marionette	INFO	Listening on port 60262
+1628754398250	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628757289793	Marionette	INFO	Stopped listening on port 60262
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628755166845	Marionette	INFO	Stopped listening on port 60451
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628755167583	Marionette	INFO	Stopped listening on port 60834
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1628755168137	Marionette	INFO	Stopped listening on port 61249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628755239324	geckodriver	INFO	Listening on 127.0.0.1:61593
+1628755242363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiletiJnb1"
+1628755242746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiletiJnb1\\search.json.mozlz4", (void 0)))
+1628755245077	Marionette	INFO	Listening on port 61615
+1628755245527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+1628755358822	geckodriver	INFO	Listening on 127.0.0.1:61831
+1628755361868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilep30Fou"
+1628755362238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilep30Fou\\search.json.mozlz4", (void 0)))
+1628755364351	Marionette	INFO	Listening on port 61850
+1628755364568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628757292884	Marionette	INFO	Stopped listening on port 61850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628757293753	Marionette	INFO	Stopped listening on port 62114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628755646527	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628755647251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searcconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inva1628757294707	Marionette	INFO	Stopped listening on port 62337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-searcconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Inva1628757299639	Marionette	INFO	Stopped listening on port 62633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628757300504	Marionette	INFO	Stopped listening on port 62890
+x.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628757301399	Marionette	INFO	Stopped listening on port 63053
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile46HZMZ"
+1628756645862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile46HZMZ\\search.json.mozlz4", (void 0)))
+1628756647883	Marionette	INFO	Listening on port 63880
+1628756648152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628757302406	Marionette	INFO	Stopped listening on port 63880
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628757303469	Marionette	INFO	Stopped listening on port 64070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilehCXg8J\\search.json.mozlz4", (void 0)))
+1628757146512	Marionette	INFO	Listening on port 64573
+1628757147018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1628757304863	Marionette	INFO	Stopped listening on port 64573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilewQYLiM"
+1628757288775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilewQYLiM\\search.json.mozlz4", (void 0)))
+1628757291611	Marionette	INFO	Listening on port 64822
+1628757292040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1628757541406	Marionette	INFO	Stopped listening on port 64822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileQVSJay"
+1628757396473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileQVSJay\\search.json.mozlz4", (void 0)))
+1628757398534	Marionette	INFO	Listening on port 65149
+1628757398758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628757415303	Marionette	INFO	Stopped listening on port 65149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628757425782	geckodriver	INFO	Listening on 127.0.0.1:65258
+1628757428828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileXnKcfl"
+1628757429202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileXnKcfl\\search.json.mozlz4", (void 0)))
+1628757431357	Marionette	INFO	Listening on port 65275
+1628757431512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628757546334	geckodriver	INFO	Listening on 127.0.0.1:65489
+1628757549411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileOzGWQS"
+1628757549780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileOzGWQS\\search.json.mozlz4", (void 0)))
+1628757552153	Marionette	INFO	Listening on port 65500
+1628757552585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/assets/js/mamut-js.js, line 57: TypeError: $(...).removeClass(...).affix is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628758816313	Marionette	INFO	Stopped listening on port 65500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+late to send/recv, messages will be lost
+
+1628757842182	geckodriver	INFO	Listening on 127.0.0.1:49618
+1628757845222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilenEK7pR"
+1628757845587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilenEK7pR\\search.json.mozlz4", (void 0)))
+1628757847911	Marionette	INFO	Listening on port 49635
+1628757848419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/icon?family=Material+Icons without a browsingContextID set
+1628758733473	Marionette	INFO	Stopped listening on port 49635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+onsole.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628758812551	Marionette	INFO	Stopped listening on port 49810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628758813695	Marionette	INFO	Stopped listening on port 49985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628758814497	Marionette	INFO	Stopped listening on port 50229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilevgRFG0"
+1628758676116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilevgRFG0\\search.json.mozlz4", (void 0)))
+1628758678743	Marionette	INFO	Listening on port 50944
+1628758678945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+1628758817436	Marionette	INFO	Stopped listening on port 50944
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilekaY8M9"
+1628758792279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilekaY8M9\\search.json.mozlz4", (void 0)))
+1628758794500	Marionette	INFO	Listening on port 51215
+1628758794574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+1628759035307	Marionette	INFO	Stopped listening on port 51215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilessQHK2"
+1628758946490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilessQHK2\\search.json.mozlz4", (void 0)))
+1628758948604	Marionette	INFO	Listening on port 51558
+1628758948794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+1628759036338	Marionette	INFO	Stopped listening on port 51558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileBy2UID"
+1628759002026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileBy2UID\\search.json.mozlz4", (void 0)))
+1628759004544	Marionette	INFO	Listening on port 51711
+1628759004768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628759451935	Marionette	INFO	Stopped listening on port 51711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oo late to 1628759452535	Marionette	INFO	Stopped listening on port 52308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilesYb0Vn"
+1628759419924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilesYb0Vn\\search.json.mozlz4", (void 0)))
+1628759422306	Marionette	INFO	Listening on port 52515
+1628759422718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+1628759455235	Marionette	INFO	Stopped listening on port 52515
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628759457514	geckodriver	INFO	Listening on 127.0.0.1:52655
+1628759460544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilei4TRhO"
+1628759460920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilei4TRhO\\search.json.mozlz4", (void 0)))
+1628759462895	Marionette	INFO	Listening on port 52669
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628759463228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+1628759569939	Marionette	INFO	Stopped listening on port 52669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileYGXiK2"
+1628759533832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileYGXiK2\\search.json.mozlz4", (void 0)))
+1628759535941	Marionette	INFO	Listening on port 52839
+1628759536119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+1628759567431	Marionette	INFO	Stopped listening on port 52839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628759591559	geckodriver	INFO	Listening on 127.0.0.1:53028
+1628759594621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileovQifV"
+1628759594987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileovQifV\\search.json.mozlz4", (void 0)))
+1628759597262	Marionette	INFO	Listening on port 53045
+1628759597318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510068, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510023, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510032, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510032, line 1114: TypeError: $.notify is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628764400110	Marionette	INFO	Stopped listening on port 53045
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628764400891	Marionette	INFO	Stopped listening on port 53297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510068, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510023, line 1114: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628764404348	Marionette	INFO	Stopped listening on port 53442
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ipt error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510068, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510023, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510032, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510032, line 1114: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510059, line 1115: TypeError: $.notify is undefined
+1628769073778	Marionette	INFO	Stopped listening on port 53897
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileUf59eQ"
+1628765250341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileUf59eQ\\search.json.mozlz4", (void 0)))
+1628765252641	Marionette	INFO	Listening on port 58376
+1628765253153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628765265668	Marionette	INFO	Stopped listening on port 58376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628765418634	geckodriver	INFO	Listening on 127.0.0.1:58707
+1628765421696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilemqnnxW"
+1628765422066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilemqnnxW\\search.json.mozlz4", (void 0)))
+1628765424147	Marionette	INFO	Listening on port 58727
+1628765424391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510068, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510023, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510032, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510032, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510059, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510059, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510041, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510041, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510014, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510014, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1628768224384	Marionette	INFO	Stopped listening on port 58727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+1628768222796	Marionette	INFO	Stopped listening on port 59687
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510032, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510032, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510059, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510059, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510041, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510041, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510014, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510014, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+1628766588084	Marionette	INFO	Stopped listening on port 59961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628768608975	geckodriver	INFO	Listening on 127.0.0.1:62544
+1628768612049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileoREJg1"
+1628768612421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileoREJg1\\search.json.mozlz4", (void 0)))
+1628768614531	Marionette	INFO	Listening on port 62561
+1628768614707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628769074690	Marionette	INFO	Stopped listening on port 62561
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+1628768753133	Marionette	INFO	Stopped listening on port 62736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628768844456	geckodriver	INFO	Listening on 127.0.0.1:63006
+1628768847533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileRYC959"
+1628768847908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileRYC959\\search.json.mozlz4", (void 0)))
+1628768850230	Marionette	INFO	Listening on port 63028
+1628768850692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+1628769075425	Marionette	INFO	Stopped listening on port 63028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile3V6tP0"
+1628768931769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile3V6tP0\\search.json.mozlz4", (void 0)))
+1628768934159	Marionette	INFO	Listening on port 63215
+1628768934589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js, line 1: ReferenceError: gvjs_iL is not defined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+1628769076297	Marionette	INFO	Stopped listening on port 63215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileppajEA"
+1628768972732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileppajEA\\search.json.mozlz4", (void 0)))
+1628768975090	Marionette	INFO	Listening on port 63387
+1628768975506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js, line 5: ReferenceError: gvjs_B is not defined
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js, line 1: ReferenceError: gvjs_iL is not defined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+1628769077088	Marionette	INFO	Stopped listening on port 63387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilekt7Jmx"
+1628769009133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilekt7Jmx\\search.json.mozlz4", (void 0)))
+1628769011587	Marionette	INFO	Listening on port 63542
+1628769011895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628769077780	Marionette	INFO	Stopped listening on port 63542
+1628769079610	geckodriver	INFO	Listening on 127.0.0.1:63768
+1628769082688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileEVNwG0"
+1628769083055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileEVNwG0\\search.json.mozlz4", (void 0)))
+1628769085007	Marionette	INFO	Listening on port 63782
+1628769085361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628771173627	Marionette	INFO	Stopped listening on port 63782
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+profilePgWW7s"
+1628769472994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilePgWW7s\\search.json.mozlz4", (void 0)))
+1628769475471	Marionette	INFO	Listening on port 64477
+1628769475800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628769544623	Marionette	INFO	Stopped listening on port 64477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628769636116	geckodriver	INFO	Listening on 127.0.0.1:64787
+1628769639181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileORW8ps"
+1628769639552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileORW8ps\\search.json.mozlz4", (void 0)))
+1628769641617	Marionette	INFO	Listening on port 64805
+1628769641853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+1628769681920	Marionette	INFO	Stopped listening on port 64805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628769748502	geckodriver	INFO	Listening on 127.0.0.1:65020
+1628769751558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile9qF6qh"
+1628769751934	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile9qF6qh\\search.json.mozlz4", (void 0)))
+1628769754306	Marionette	INFO	Listening on port 65042
+1628769754751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1628769774073	Marionette	INFO	Stopped listening on port 65042
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628769779663	geckodriver	INFO	Listening on 127.0.0.1:65155
+1628769782743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileCWcfqC"
+1628769783114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileCWcfqC\\search.json.mozlz4", (void 0)))
+1628769785312	Marionette	INFO	Listening on port 65175
+1628769785419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+1628769824991	Marionette	INFO	Stopped listening on port 65175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628769884437	geckodriver	INFO	Listening on 127.0.0.1:65368
+1628769887497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileXgGluz"
+1628769887865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileXgGluz\\search.json.mozlz4", (void 0)))
+1628769889953	Marionette	INFO	Listening on port 65388
+1628769890166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+1628769913506	Marionette	INFO	Stopped listening on port 65388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628769927909	geckodriver	INFO	Listening on 127.0.0.1:65526
+1628769930952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilegqflqM"
+1628769931350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilegqflqM\\search.json.mozlz4", (void 0)))
+1628769933686	Marionette	INFO	Listening on port 49165
+1628769934126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628771174420	Marionette	INFO	Stopped listening on port 49165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s will be lost
+
+1628770120491	geckodriver	INFO	Listening on 127.0.0.1:49560
+1628770123580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile7sjo5u"
+1628770123954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile7sjo5u\\search.json.mozlz4", (void 0)))
+1628770126217	Marionette	INFO	Listening on port 49578
+1628770126291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510068, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510023, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510032, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510032, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510059, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510059, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510041, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510041, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510014, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510014, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.1628770637599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox1628771175093	Marionette	INFO	Stopped listening on port 49578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileVhxJQD\\search.json.mozlz4", (void 0)))
+1628770640140	Marionette	INFO	Listening on port 50340
+1628770640273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510087, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510087, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510088, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510068, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510023, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510032, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510032, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510059, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510059, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510041, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510041, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510014, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510014, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628772457892	Marionette	INFO	Stopped listening on port 50340
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileuPgJXP"
+1628771328130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileuPgJXP\\search.json.mozlz4", (void 0)))
+1628771330366	Marionette	INFO	Listening on port 51294
+1628771330436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510059, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510059, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510041, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510041, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510014, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510014, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510089, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510089, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510089, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510089, line 1115: TypeError: $.notify is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/icon?family=Material+Icons without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628772458577	Marionette	INFO	Stopped listening on port 51294
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+yokatlas.yok.gov.tr/2019/lisans.php?y=106510041, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510041, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510014, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510014, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628772459055	Marionette	INFO	Stopped listening on port 51839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile7we8cz\\search.json.mozlz4", (void 0)))
+1628772077597	Marionette	INFO	Listening on port 52454
+1628772077702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628772081571	Marionette	INFO	Stopped listening on port 52454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628772090367	geckodriver	INFO	Listening on 127.0.0.1:52547
+1628772093423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileXOehPU"
+1628772093797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileXOehPU\\search.json.mozlz4", (void 0)))
+1628772096115	Marionette	INFO	Listening on port 52566
+1628772096614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628772461299	Marionette	INFO	Stopped listening on port 52566
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileQ60j6E"
+1628772180257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileQ60j6E\\search.json.mozlz4", (void 0)))
+1628772182802	Marionette	INFO	Listening on port 52783
+1628772182975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628772213563	Marionette	INFO	Stopped listening on port 52783
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628772232615	geckodriver	INFO	Listening on 127.0.0.1:52930
+1628772235668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilenjJbbh"
+1628772236050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilenjJbbh\\search.json.mozlz4", (void 0)))
+1628772238497	Marionette	INFO	Listening on port 52949
+1628772238834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+1628772462141	Marionette	INFO	Stopped listening on port 52949
+8772290250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4H840g"
+1628772290645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4H840g\\search.json.mozlz4", (void 0)))
+1628772293007	Marionette	INFO	Listening on port 53096
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628772293419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+1628772463019	Marionette	INFO	Stopped listening on port 53096
+8772376445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileRiCBjq"
+1628772376817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileRiCBjq\\search.json.mozlz4", (void 0)))
+1628772379162	Marionette	INFO	Listening on port 53306
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628772379659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+1628772464023	Marionette	INFO	Stopped listening on port 53306
+1628772545732	geckodriver	INFO	Listening on 127.0.0.1:53677
+1628772548813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileeSHZ7a"
+1628772549187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileeSHZ7a\\search.json.mozlz4", (void 0)))
+1628772551498	Marionette	INFO	Listening on port 53694
+1628772551984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510086, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510086, line 1114: TypeError: $.notify is undefined
+1628772704066	Marionette	INFO	Stopped listening on port 53694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628772739359	geckodriver	INFO	Listening on 127.0.0.1:54082
+1628772742427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileOg4OVA"
+1628772742794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileOg4OVA\\search.json.mozlz4", (void 0)))
+1628772744748	Marionette	INFO	Listening on port 54104
+1628772745094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js, line 5: ReferenceError: gvjs_B is not defined
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js, line 1: ReferenceError: gvjs_iL is not defined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628773330537	Marionette	INFO	Stopped listening on port 54104
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nnel closing: too late to send/recv, messages will be lost
+
+1628773422906	geckodriver	INFO	Listening on 127.0.0.1:55109
+1628773425952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileHH9UeE"
+1628773426366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileHH9UeE\\search.json.mozlz4", (void 0)))
+1628773428703	Marionette	INFO	Listening on port 55129
+1628773429128	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nnel closing: too late to send/recv, messages will be lost
+
+1628773598777	geckodriver	INFO	Listening on 127.0.0.1:55499
+1628773601800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileyNQqZl"
+1628773602183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileyNQqZl\\search.json.mozlz4", (void 0)))
+1628773604334	Marionette	INFO	Listening on port 55519
+1628773604472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628773620784	Marionette	INFO	Stopped listening on port 55519
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628773634332	geckodriver	INFO	Listening on 127.0.0.1:55649
+1628773637383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilekj0gZN"
+1628773637783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilekj0gZN\\search.json.mozlz4", (void 0)))
+1628773639910	Marionette	INFO	Listening on port 55669
+1628773640081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js, line 5: ReferenceError: gvjs_B is not defined
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js, line 1: ReferenceError: gvjs_iL is not defined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510089, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ify is undefined
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510089, line 1115: TypeError: $.notify is undefined
+1628774050183	Marionette	INFO	Stopped listening on port 56217
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
