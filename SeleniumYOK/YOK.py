@@ -2,6 +2,10 @@ from selenium import webdriver
 import time
 from math import floor
 from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 driver = webdriver.Firefox()
 url = "https://yokatlas.yok.gov.tr/lisans-anasayfa.php"
@@ -9,18 +13,26 @@ url = "https://yokatlas.yok.gov.tr/lisans-anasayfa.php"
 driver.get(url)
 
 
-
 def bolumBilgiAl2020():
+    try:
+        myBtn = driver.find_element_by_class_name("featherlight-close-icon")
+        myBtn.click()
+        time.sleep(1)
+    except NoSuchElementException:
+        pass
+
 
     print ("************** Genel Bilgiler *********************")
     solGenel=[]
     sagGenel=[]
 
 
-    myBtn = driver.find_element_by_css_selector("#headingOne > a:nth-child(1) > h4:nth-child(2)")
-    myBtn.click()
-    time.sleep(3)
-
+    #myBtn = driver.find_element_by_css_selector("#headingOne > a:nth-child(1) > h4:nth-child(2)")
+    myBtn = WebDriverWait(driver, 120).until( \
+EC.presence_of_element_located(
+            (By.XPATH, "/html/body/div[2]/div[1]/div[7]/div/div[2]/div[1]/a/h4")))
+    driver.execute_script("arguments[0].click();", myBtn)
+    time.sleep(1)
 
     elementsRight = driver.find_elements_by_css_selector('.vert-align')
     for elementRight in elementsRight:
@@ -1143,96 +1155,101 @@ def bolumBilgiAl2019():
         print(key, ' : ', value)
     myBtn.click()
 """
-btn1 = driver.find_element_by_xpath("/html/body/div/div[2]/div/div[1]/div[1]/div/form/div/div/div/button")
-btn1.click()
-time.sleep(1)
 
-btn2 = driver.find_element_by_class_name("opt")
-uniName = btn2.text
-btn2.click()
-time.sleep(1)
+def btnAna():
+    btn1 = driver.find_element_by_xpath("/html/body/div/div[2]/div/div[1]/div[1]/div/form/div/div/div/button")
+    btn1.click()
+    time.sleep(1)
 
-btn3Num = len(list(driver.find_elements_by_class_name("btn")))
-print(floor(int((btn3Num)/2+1)))
-print(list(range(1, floor(int((btn3Num)/2+1)))))
 
-#sayfanın solu
-# for i in list(range(1, floor(int((btn3Num)/2+1)))):
-#     btn3 = driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div/div[1]/div/div["+str(i)+"]/div/h4/a/div")
-#     bolumName = btn3.text
-#     driver.execute_script("arguments[0].click();", btn3)
-#     time.sleep(2)
-#     for i in [3,2,1]:
-#         btn2020 = driver.find_element_by_css_selector("a.label:nth-child("+str(i)+") > font:nth-child(1)")
-#         yil = btn2020.text
-#         print(uniName+" "+" "+bolumName+" "+" "+yil)
-#         driver.execute_script("arguments[0].click();", btn2020)
-#         time.sleep(2)
-#         if i == 3:
-#             bolumBilgiAl2020()
-#             time.sleep(2)
-#
-#         else:
-#             bolumBilgiAl2019()
-#             time.sleep(2)
-#
-#     driver.execute_script("window.history.go(-3)")
-#     time.sleep(2)
+uniButtonsLen = list(range(len(driver.find_elements_by_class_name("opt"))))
+print(uniButtonsLen)
+for i in list(range(10,len(driver.find_elements_by_class_name("opt"))+2)):
+    btnAna()
+    time.sleep(1)
 
-print(floor(int((btn3Num)/2+1)))
-print(list(range(1, floor(int((btn3Num)/2+1)))))
+    uniButton = driver.find_element_by_xpath("/html/body/div/div[2]/div/div[1]/div[1]/div/form/div/div/div/div/ul/li["+str(i)+"]/a")
 
-#sayfanın sağı
-for i in list(range(5, floor(int((btn3Num)/2+1)))):
-    btn3 = driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div/div[2]/div/div["+str(i)+"]/div/h4/a/div")
-    bolumName = btn3.text
-    driver.execute_script("arguments[0].click();", btn3)
-    time.sleep(2)
-    exeptionExist = False
-    for i in [3,2,1]:
+    uniName = uniButton.text
+    uniButton.click()
+    time.sleep(1)
+
+    btn3Num = len(list(driver.find_elements_by_class_name("btn")))
+    print(floor(int((btn3Num)/2+1)))
+    print(list(range(1, floor(int((btn3Num)/2+1)))))
+
+    #sayfanın solu
+    # for i in list(range(1, floor(int((btn3Num)/2+1)))):
+    #     btn3 = driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div/div[1]/div/div["+str(i)+"]/div/h4/a/div")
+    #     bolumName = btn3.text
+    #     driver.execute_script("arguments[0].click();", btn3)
+    #     time.sleep(2)
+    #     for i in [3,2,1]:
+    #         btn2020 = driver.find_element_by_css_selector("a.label:nth-child("+str(i)+") > font:nth-child(1)")
+    #         yil = btn2020.text
+    #         print(uniName+" "+" "+bolumName+" "+" "+yil)
+    #         driver.execute_script("arguments[0].click();", btn2020)
+    #         time.sleep(2)
+    #         if i == 3:
+    #             bolumBilgiAl2020()
+    #             time.sleep(2)
+    #
+    #         else:
+    #             bolumBilgiAl2019()
+    #             time.sleep(2)
+    #
+    #     driver.execute_script("window.history.go(-3)")
+    #     time.sleep(2)
+
+    print(floor(int((btn3Num)/2+1)))
+    print(list(range(1, floor(int((btn3Num)/2+1)))))
+
+    #sayfanın sağı
+    for i in list(range(4, 7)):
+        #btn3 = driver.find_element_by_xpath("/html/body/div/div[2]/div[2]/div/div[2]/div/div["+str(i)+"]/div/h4/a/div")
         try:
-            btn2020 = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[6]/div[2]/h2/strong/a[" + str(i) + "]")
-            yil = btn2020.text
-            print(uniName + " " + " " + bolumName + " " + " " + yil)
-            driver.execute_script("arguments[0].click();", btn2020)
+            btn3 = WebDriverWait(driver, 12).until( \
+    EC.presence_of_element_located((By.XPATH, "/html/body/div/div[2]/div[2]/div/div[2]/div/div["+str(i)+"]/div/h4/a/div")))
+            bolumName = btn3.text
+            driver.execute_script("arguments[0].click();", btn3)
             time.sleep(2)
+        except TimeoutException:
+            continue
+        for i in [3,1,2]:
 
-        except NoSuchElementException:
-            exeptionExist = True
-            pass
+            exeptionExist = False
+
+            try:
+                btn2020 = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[6]/div[2]/h2/strong/a[" + str(i) + "]")
+                yil = btn2020.text
+                print(uniName + " " + " " + bolumName + " " + " " + yil)
+                driver.execute_script("arguments[0].click();", btn2020)
+                time.sleep(2)
+
+            except NoSuchElementException:
+                exeptionExist = True
+                pass
 
 
-        # btn2020 = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[6]/div[2]/h2/strong/a[" + str(i) + "]")
-        # yil = btn2020.text
-        # print(uniName+" "+" "+bolumName+" "+" "+yil)
-        # driver.execute_script("arguments[0].click();", btn2020)
-        # time.sleep(2)
-        if i == 3:
-            bolumBilgiAl2020()
+            # btn2020 = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[6]/div[2]/h2/strong/a[" + str(i) + "]")
+            # yil = btn2020.text
+            # print(uniName+" "+" "+bolumName+" "+" "+yil)
+            # driver.execute_script("arguments[0].click();", btn2020)
+            # time.sleep(2)
+            if i == 3:
+                time.sleep(1)
+                bolumBilgiAl2020()
+                time.sleep(1)
+            else:
+                time.sleep(1)
+                bolumBilgiAl2019()
+                time.sleep(1)
+        if exeptionExist == True:
+            driver.execute_script("window.history.go(-2)")
             time.sleep(2)
         else:
-            bolumBilgiAl2019()
-            time.sleep(2)
-    if exeptionExist == True:
-        driver.execute_script("window.history.go(-2)")
-        time.sleep(2)
-    else:
-        driver.execute_script("window.history.go(-3)")
-driver.execute_script("window.history.go(-1)")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            driver.execute_script("window.history.go(-3)")
+    driver.get("https://yokatlas.yok.gov.tr/lisans-anasayfa.php")
 
 
 
