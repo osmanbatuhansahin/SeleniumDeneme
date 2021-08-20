@@ -8,18 +8,57 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
+import os
+import itertools
+from collections import defaultdict
+import pymysql
+from sqlalchemy import create_engine
 
-a_file = open("sample.csv", "w")
+
+connection = pymysql.connect(
+  host="localhost",
+  user="username",
+  password="password",
+database="dbname",
+charset='utf8'
+)
+
+engine = create_engine('mysql+pymysql://username:password@localhost/dbname')
+
+cursor = connection.cursor()
+
+
+programKodu = []
+osym = []
+
+sagGenel = []
+solGenel = []
+
+solKontenjan = []
+sagKontenjan = []
+
+solCinsiyet = []
+sagCinsiyet = []
+
+solBolge = []
+sagBolge = []
+
+bolgeDict = {}
+
+myDict = defaultdict()
+
+xl = []
+
 
 driver = webdriver.Firefox()
 
 df = pd.read_csv('osymveri.csv') # can also index sheet by name or fetch all sheets
 listKod = df['AAA'].tolist()
-print(listKod)
-
 
 
 def bolumBilgiAl2020():
+
+
     try:
         myBtn = driver.find_element_by_class_name("featherlight-close-icon")
         myBtn.click()
@@ -40,11 +79,11 @@ def bolumBilgiAl2020():
     except TimeoutException:
         pass
 
-    solGenel=[]
-    sagGenel=[]
 
 
     print ("************** Genel Bilgiler *********************")
+
+
     elementsRight = driver.find_elements_by_xpath("/html/body/div[2]/div[1]/div[7]/div/div[2]/div[2]/div/div/table/tbody/tr/td[2]")
     for elementRight in elementsRight:
        sagGenel.append(elementRight.text)
@@ -53,21 +92,15 @@ def bolumBilgiAl2020():
     for elementLeft in elementsLeft:
        solGenel.append(elementLeft.text)
 
+    programKodu.append(driver.find_element_by_xpath(
+        "/html/body/div[2]/div[1]/div[7]/div/div[2]/div[2]/div/div/table/tbody/tr[1]/td[2]").text)
+    osym.append(driver.find_element_by_xpath(
+        "/html/body/div[2]/div[1]/div[7]/div/div[2]/div[2]/div/div/table/tbody/tr[1]/td[1]").text)
 
-    print("sag liste: "+str(len(sagGenel)))
-    print("sol liste: "+str(len(solGenel)))
-
-    genelBilgiler = dict(zip(solGenel, sagGenel))
-
-    print ("Genel Bilgiler:")
-    for key, value in genelBilgiler.items():
-        print(key, ' : ', value)
 
 
     print ("************** Kontenjan İstatistikleri *********************") #hangi veriler lazım?
 
-    solKontenjan=[]
-    sagKontenjan=[]
 
 
     elementsLeft = driver.find_elements_by_xpath(
@@ -79,20 +112,17 @@ def bolumBilgiAl2020():
         "/html/body/div[2]/div[1]/div[7]/div/div[3]/div/div/div/table/tbody/tr/td[2]")
     for elementRight in elementsRight:
         sagKontenjan.append(elementRight.text)
-    print("sol liste: "+str(len(solKontenjan)))
-    print("sag liste: "+str(len(sagKontenjan)))
-
-    kontenjanDict = dict(zip(solKontenjan, sagKontenjan))
-
-    print ("Kontenjan İstatistikleri:")
-    for key, value in kontenjanDict.items():
-        print(key, ' : ', value)
+    # print("sol liste: "+str(len(solKontenjan)))
+    # print("sag liste: "+str(len(sagKontenjan)))
+    #
+    # kontenjanDict = dict(zip(solKontenjan, sagKontenjan))
+    #
+    # print ("Kontenjan İstatistikleri:")
+    # for key, value in kontenjanDict.items():
+    #     print(key, ' : ', value)
 
 
     print ("************** Cinsiyet İstatistikleri *********************") #hangi veriler lazım?
-
-    solCinsiyet=[]
-    sagCinsiyet=[]
 
 
     elementsLeft = driver.find_elements_by_xpath(
@@ -105,72 +135,70 @@ def bolumBilgiAl2020():
     for elementRight in elementsRight:
         sagCinsiyet.append(elementRight.text)
 
-    print("sol liste: "+str(len(solCinsiyet)))
-    print("sag liste: "+str(len(sagCinsiyet)))
-
-    cinsiyetDict = dict(zip(solCinsiyet, sagCinsiyet))
-
-    print ("Cinsiyet İstatistikleri:")
-    for key, value in cinsiyetDict.items():
-        print(key, ' : ', value)
+    # print("sol liste: "+str(len(solCinsiyet)))
+    # print("sag liste: "+str(len(sagCinsiyet)))
+    #
+    # cinsiyetDict = dict(zip(solCinsiyet, sagCinsiyet))
+    #
+    # print ("Cinsiyet İstatistikleri:")
+    # for key, value in cinsiyetDict.items():
+    #     print(key, ' : ', value)
 
 
     print ("************** Coğrafi Bölge İstatistikleri *********************") #hangi veriler lazım?
 
-    solBolge=[]
-    sagBolge=[]
-
-
+    solBolgeLocal =[]
+    sagBolgeLocal = []
     for i in [2,3]:
         elementsLeft = driver.find_elements_by_css_selector("#icerik_1020ab > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child("+str(i)+") > td:nth-child(1)")
         for elementLeft in elementsLeft:
-            solBolge.append(elementLeft.text)
+            solBolgeLocal.append(elementLeft.text)
     for i in [2,3]:
         elementsRight = driver.find_elements_by_css_selector('#icerik_1020ab > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child('+str(i)+') > td:nth-child(2)')
         for elementRight in elementsRight:
-            sagBolge.append(elementRight.text)
+            sagBolgeLocal.append(elementRight.text)
 
     for i in [2,3,4,5,6,7,8]:
         elementsLeft = driver.find_elements_by_css_selector("table.table:nth-child(6) > tbody:nth-child(2) > tr:nth-child("+str(i)+") > td:nth-child(1)")
         for elementLeft in elementsLeft:
-            solBolge.append(elementLeft.text)
+            solBolgeLocal.append(elementLeft.text)
 
     for i in [2,3,4,5,6,7,8]:
         elementsRight = driver.find_elements_by_css_selector("table.table:nth-child(6) > tbody:nth-child(2) > tr:nth-child("+str(i)+") > td:nth-child(2)")
         for elementRight in elementsRight:
-            sagBolge.append(elementRight.text)
+            sagBolgeLocal.append(elementRight.text)
+
+    sagBolge.append(sagBolgeLocal)
+    solBolge.append(solBolgeLocal)
 
 
-    print("sol liste: "+str(len(solBolge)))
-    print("sag liste: "+str(len(sagBolge)))
+    #
+    # print("sol liste: "+str(len(solBolge)))
+    # print("sag liste: "+str(len(sagBolge)))
+    #
+    # bolgeDict = dict(zip(solBolge, sagBolge))
+    #
+    # print ("Bölge İstatistikleri:")
+    # for key, value in bolgeDict.items():
+    #     print(key, ' : ', value)
 
-    bolgeDict = dict(zip(solBolge, sagBolge))
-
-    print ("Bölge İstatistikleri:")
-    for key, value in bolgeDict.items():
-        print(key, ' : ', value)
-
-
+    """
     print ("************** Öğrenim Durumu İstatistikleri *********************") #hangi veriler lazım?
-
-    solOgrenim=[]
-    sagOgrenim=[]
-
 
     for i in [2,3,4,5,6]:
         elementsLeft = driver.find_elements_by_css_selector("#icerik_1030a > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child("+str(i)+") > td:nth-child(1)")
         for elementLeft in elementsLeft:
-            solOgrenim.append(elementLeft.text)
+            solGenel.append(elementLeft.text)
 
     for i in [2,3,4,5,6]:
         elementsRight = driver.find_elements_by_css_selector("#icerik_1030a > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child("+str(i)+") > td:nth-child(2)")
         for elementRight in elementsRight:
-            sagOgrenim.append(elementRight.text)
+            sagList.append(elementRight.text)
 
-    print("sol liste: "+str(len(solOgrenim)))
-    print("sag liste: "+str(len(sagOgrenim)))
-
-    ogrenimDict = dict(zip(solOgrenim, sagOgrenim))
+    # print("sol liste: "+str(len(solOgrenim)))
+    # print("sag liste: "+str(len(sagOgrenim)))
+    #
+    # ogrenimDict = dict(zip(solOgrenim, sagOgrenim))
 
     print ("Öğrenim Durumu İstatistikleri:")
     for key, value in ogrenimDict.items():
@@ -527,6 +555,7 @@ def bolumBilgiAl2020():
     for key, value in programDict.items():
         print(key, ' : ', value)
 
+"""
 
 def bolumBilgiAl2019():
 
@@ -572,10 +601,8 @@ def bolumBilgiAl2019():
     for key, value in genelBilgiler.items():
         print(key, ' : ', value)
 
-    writer = csv.writer(a_file)
 
-    for key, value in genelBilgiler.items():
-        writer.writerow([key, value])
+
 
     print("************** Kontenjan İstatistikleri *********************")  # hangi veriler lazım?
 
@@ -1004,6 +1031,191 @@ def bolumBilgiAl2019():
         print(key, ' : ', value)
 
 
+for kod in listKod[:3]:
+
+    url = "https://yokatlas.yok.gov.tr/lisans.php?y=" + str(kod) + ""
+
+    try:
+        driver.get(url)
+        divSayiBtns = driver.find_elements_by_class_name("panel-default")
+        divSayi = len(list(divSayiBtns))
+        time.sleep(1)
+        if (divSayi == 27):
+            time.sleep(1)
+            bolumBilgiAl2020()
+            time.sleep(1)
+
+        else:
+            print("girdi")
+            time.sleep(1)
+            bolumBilgiAl2019()
+            time.sleep(1)
+
+
+
+        # print("sag liste: " + str(len(sagGenel)))
+        # print("sol liste: " + str(len(solGenel)))
+        #
+        # genelBilgiler = dict(zip(solGenel, sagGenel))
+        #
+        # print(genelBilgiler)
+        #
+        # print("Genel Bilgiler:")
+        # for key, value in genelBilgiler.items():
+        #     print(key, ' : ', value)
+
+
+
+
+    except NoSuchElementException:
+        time.sleep(1)
+        print("Exception exist")
+        pass
+
+# abc = pd.DataFrame(sagGenel, solGenel)
+#
+# abc2 = abc.to_dict()
+#
+# df2 = pd.DataFrame.from_dict(abc2, orient='index')
+# print(df2)
+# print(sagGenel)
+# print(solGenel)
+
+listGenel = list(zip(solGenel, sagGenel))
+dGenel = defaultdict(list)
+
+# print(solGenel)
+# print(sagGenel)
+#
+# print(d1)
+#
+# data_pairs = zip(data[::2],data[1::2])
+#
+# for x in data_pairs:
+#     myDict.setdefault(x[0],[]).append(x[1])
+#
+# print("****************************")
+# print(myDict)
+
+
+"""
+for k, v in listGenel:
+    dGenel[k].append(v)
+
+d = dict((k, tuple(v)) for k, v in dGenel.items())
+print(d)
+#({k:pd.Series(v) for k, v in d.items()})
+df2 = pd.DataFrame.from_dict({k:pd.Series(v) for k, v in d.items()})
+#df2.columns = listKod[:3]
+# with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
+#     print(df2)
+df2.to_sql(con=engine, name='2020genel', if_exists='replace')
+"""
+solKontenjan.extend(osym)
+sagKontenjan.extend(programKodu)
+listKontenjan = list(zip(solKontenjan, sagKontenjan))
+dKontenjan = defaultdict(list)
+for k, v in listKontenjan:
+    dKontenjan[k].append(v)
+
+d = dict((k, tuple(v)) for k, v in dKontenjan.items())
+df2 = pd.DataFrame.from_dict({k: pd.Series(v) for k, v in d.items()})
+df2.to_sql(con=engine, name='2020kontenjan', if_exists='replace')
+with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
+     print(df2)
+
+listCinsiyet = list(zip(solCinsiyet, sagCinsiyet))
+dCinsiyet = defaultdict(list)
+for k, v in listCinsiyet:
+    dCinsiyet[k].append(v)
+
+d = dict((k, tuple(v)) for k, v in dCinsiyet.items())
+
+df2 = pd.DataFrame.from_dict({k: pd.Series(v) for k, v in d.items()})
+df2.to_sql(con=engine, name='2020cinsiyet', if_exists='replace')
+
+# solBolge.extend(osym)
+# sagBolge.extend(programKodu)
+# listBolge = list(zip(solBolge, sagBolge))
+# dBolge = defaultdict(list)
+# for k, v in listBolge:
+#     dBolge[k].append(v)
+# print("****************************dBolge")
+#
+# print(dBolge)
+#
+# d = dict((k, tuple(v)) for k, v in dBolge.items())
+# print(d)
+# df2 = pd.DataFrame.from_dict({k: pd.Series(v) for k, v in d.items()})
+# df2.to_sql(con=engine, name='2020cografibolge', if_exists='replace')
+
+print(solBolge)
+print(sagBolge)
+
+for i in list(range(0,len(solBolge))):
+    for j in list(range(0, len(solBolge[i]))):
+        sagBolge[i][j] = ""+str(solBolge[i][j])+" : "+str(sagBolge[i][j])+""
+print(solBolge)
+dBolge = defaultdict(list)
+# dictBolge = dict(zip(solBolge, sagBolge))
+# print(dictBolge)
+
+listBolge = list(zip(programKodu, sagBolge))
+for k, v in listBolge:
+    dBolge[k].extend(v)
+print(dBolge)
+
+d = dict((k, tuple(v)) for k, v in dBolge.items())
+print(d)
+# for j in list(range(0, len(solBolge))):
+#     for i in list(range(0, len(solBolge[2]))):
+#         print(solBolge[i])
+#         print(pd.Series(v))
+
+df2 = pd.DataFrame.from_dict({k: pd.Series(v) for k, v in d.items()},orient="columns")
+
+with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+    print(df2)
+
+df2.to_sql(con=engine, name='2020cografibolge', if_exists='replace')
+# print(len(solBolge))
+# for j in list(range(0, len(solBolge))):
+#     for i in list(range(0, len(solBolge[0]))):
+#         df2 = pd.DataFrame(sagBolge[j][i],index=solBolge[j][i])
+#         with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+#             print(df2)
+
+
+
+
+# table_name = "2020deneme"
+# cursor.execute("""CREATE TABLE IF NOT EXISTS """ + table_name + " (" + " VARCHAR(250),".join(solGenel) + " VARCHAR(250))")
+# connection.commit()
+#
+# cols = "`,`".join([str(i) for i in df2.columns.tolist()])
+#
+# for i,row in df2.iterrows():
+#     sql = "INSERT INTO `2020deneme` (`" +cols + "`) VALUES (" + "%s,"*(len(row)-1) + "%s)"
+#     cursor.execute(sql, tuple(row))
+#
+#     connection.commit()
+#
+# sql = "SELECT * FROM `2020deneme`"
+# cursor.execute(sql)
+#
+# # Fetch all the records
+# result = cursor.fetchall()
+# for i in result:
+#     print(i)
+
+
+
+
+
+
+
+
+
 for kod in listKod:
 
     url = "https://yokatlas.yok.gov.tr/2018/lisans.php?y=" + str(kod) + ""
@@ -1051,27 +1263,4 @@ for kod in listKod:
         print("Exception exist")
         pass
 
-for kod in listKod:
 
-    url = "https://yokatlas.yok.gov.tr/lisans.php?y=" + str(kod) + ""
-
-    try:
-        driver.get(url)
-        divSayiBtns = driver.find_elements_by_class_name("panel-default")
-        divSayi = len(list(divSayiBtns))
-        time.sleep(1)
-        if (divSayi == 27):
-            time.sleep(1)
-            bolumBilgiAl2020()
-            time.sleep(1)
-        else:
-            print("girdi")
-            time.sleep(1)
-            bolumBilgiAl2019()
-            time.sleep(1)
-    except NoSuchElementException:
-        time.sleep(1)
-        print("Exception exist")
-        pass
-
-a_file.close()
