@@ -15918,3 +15918,928 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1629720038507	geckodriver	INFO	Listening on 127.0.0.1:60582
+1629720041585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile3ar5k4"
+1629720041966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile3ar5k4\\search.json.mozlz4", (void 0)))
+1629720044318	Marionette	INFO	Listening on port 60593
+1629720044775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629720567489	Marionette	INFO	Stopped listening on port 60593
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+taxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629720568355	Marionette	INFO	Stopped listening on port 60829
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileBCHnIp\\search.json.mozlz4", (void 0)))
+1629720357571	Marionette	INFO	Listening on port 61089
+1629720357884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629720570065	Marionette	INFO	Stopped listening on port 61089
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilecH8Hcv\\search.json.mozlz4", (void 0)))
+1629720432357	Marionette	INFO	Listening on port 61254
+1629720432532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629721009704	Marionette	INFO	Stopped listening on port 61254
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629720517928	Marionette	INFO	Stopped listening on port 61420
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629720722740	geckodriver	INFO	Listening on 127.0.0.1:61787
+1629720725804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileDCzIiN"
+1629720726208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileDCzIiN\\search.json.mozlz4", (void 0)))
+1629720728744	Marionette	INFO	Listening on port 61804
+1629720728986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629721010739	Marionette	INFO	Stopped listening on port 61804
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile2jVdJB\\search.json.mozlz4", (void 0)))
+1629720860357	Marionette	INFO	Listening on port 58804
+1629720860381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629720872961	Marionette	INFO	Stopped listening on port 58804
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629720916811	geckodriver	INFO	Listening on 127.0.0.1:58958
+1629720919884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileTphIrp"
+1629720920286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileTphIrp\\search.json.mozlz4", (void 0)))
+1629720922865	Marionette	INFO	Listening on port 58971
+1629720923051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629721711754	Marionette	INFO	Stopped listening on port 58971
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+taxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629721289492	Marionette	INFO	Stopped listening on port 59295
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileParvuO\\search.json.mozlz4", (void 0)))
+1629721226342	Marionette	INFO	Listening on port 59462
+1629721226830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629721291302	Marionette	INFO	Stopped listening on port 59462
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629721493922	geckodriver	INFO	Listening on 127.0.0.1:59881
+1629721496998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiledMfPbR"
+1629721497399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiledMfPbR\\search.json.mozlz4", (void 0)))
+1629721499616	Marionette	INFO	Listening on port 59896
+1629721499687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629721710967	Marionette	INFO	Stopped listening on port 59896
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileqXlm6f\\search.json.mozlz4", (void 0)))
+1629721524029	Marionette	INFO	Listening on port 60012
+1629721524339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629721710021	Marionette	INFO	Stopped listening on port 60012
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilewvQDdJ\\search.json.mozlz4", (void 0)))
+1629721546494	Marionette	INFO	Listening on port 60126
+1629721547005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629721709079	Marionette	INFO	Stopped listening on port 60126
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilebyH8AR\\search.json.mozlz4", (void 0)))
+1629721602879	Marionette	INFO	Listening on port 60306
+1629721603378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629727112313	Marionette	INFO	Stopped listening on port 60306
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofileRYMwvp\\search.json.mozlz4", (void 0)))
+1629721999356	Marionette	INFO	Listening on port 60842
+1629721999547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629722009550	Marionette	INFO	Stopped listening on port 60842
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629722015064	geckodriver	INFO	Listening on 127.0.0.1:60940
+1629722018125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileVnlt4u"
+1629722018501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileVnlt4u\\search.json.mozlz4", (void 0)))
+1629722021047	Marionette	INFO	Listening on port 60951
+1629722021304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629722052723	Marionette	INFO	Stopped listening on port 60951
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629722644523	geckodriver	INFO	Listening on 127.0.0.1:61739
+1629722647568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileHOiKBK"
+1629722647945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileHOiKBK\\search.json.mozlz4", (void 0)))
+1629722650224	Marionette	INFO	Listening on port 61757
+1629722650729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629727113229	Marionette	INFO	Stopped listening on port 61757
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629722825849	Marionette	INFO	Stopped listening on port 62059
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629723520055	geckodriver	INFO	Listening on 127.0.0.1:62872
+1629723523106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile0PNDps"
+1629723523490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile0PNDps\\search.json.mozlz4", (void 0)))
+1629723525936	Marionette	INFO	Listening on port 62892
+1629723526281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629723544179	Marionette	INFO	Stopped listening on port 62892
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1629724063707	geckodriver	INFO	Listening on 127.0.0.1:63529
+1629724066756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileJgq3Tz"
+1629724067127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileJgq3Tz\\search.json.mozlz4", (void 0)))
+1629724069697	Marionette	INFO	Listening on port 63550
+1629724069944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629727114938	Marionette	INFO	Stopped listening on port 63550
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629724231608	Marionette	INFO	Stopped listening on port 63816
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1629725659083	geckodriver	INFO	Listening on 127.0.0.1:58427
+1629725662131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileC8TM54"
+1629725662509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileC8TM54\\search.json.mozlz4", (void 0)))
+1629725665225	Marionette	INFO	Listening on port 58439
+1629725665306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629725684884	Marionette	INFO	Stopped listening on port 58439
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629726487059	geckodriver	INFO	Listening on 127.0.0.1:59374
+1629726490126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileLg4rDq"
+1629726490502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileLg4rDq\\search.json.mozlz4", (void 0)))
+1629726492872	Marionette	INFO	Listening on port 59392
+1629726493312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629727115859	Marionette	INFO	Stopped listening on port 59392
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1629727116812	Marionette	INFO	Stopped listening on port 59774
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+x/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629726968890	Marionette	INFO	Stopped listening on port 60238
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629727073618	geckodriver	INFO	Listening on 127.0.0.1:60458
+1629727076661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilepqQFJI"
+1629727077054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilepqQFJI\\search.json.mozlz4", (void 0)))
+1629727079469	Marionette	INFO	Listening on port 60476
+1629727079846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629731983070	Marionette	INFO	Stopped listening on port 60476
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629727364597	Marionette	INFO	Stopped listening on port 60891
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629728209525	geckodriver	INFO	Listening on 127.0.0.1:65248
+1629728212577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiler21q4I"
+1629728213003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiler21q4I\\search.json.mozlz4", (void 0)))
+1629728215419	Marionette	INFO	Listening on port 65267
+1629728215772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629728227787	Marionette	INFO	Stopped listening on port 65267
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629728334642	geckodriver	INFO	Listening on 127.0.0.1:49203
+1629728337679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile1eE59o"
+1629728338054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile1eE59o\\search.json.mozlz4", (void 0)))
+1629728340474	Marionette	INFO	Listening on port 49215
+1629728340852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629728352960	Marionette	INFO	Stopped listening on port 49215
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629728998616	geckodriver	INFO	Listening on 127.0.0.1:49917
+1629729001658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileQnzMTL"
+1629729002035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileQnzMTL\\search.json.mozlz4", (void 0)))
+1629729004416	Marionette	INFO	Listening on port 49935
+1629729004816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629729015092	Marionette	INFO	Stopped listening on port 49935
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629729076134	geckodriver	INFO	Listening on 127.0.0.1:50120
+1629729079196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileDrbiop"
+1629729079579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileDrbiop\\search.json.mozlz4", (void 0)))
+1629729082086	Marionette	INFO	Listening on port 50135
+1629729082398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629729103193	Marionette	INFO	Stopped listening on port 50135
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629729549506	geckodriver	INFO	Listening on 127.0.0.1:50665
+1629729552575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilet1VPzg"
+1629729552953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilet1VPzg\\search.json.mozlz4", (void 0)))
+1629729555207	Marionette	INFO	Listening on port 50678
+1629729555242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629729578954	Marionette	INFO	Stopped listening on port 50678
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9976, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629731643636	geckodriver	INFO	Listening on 127.0.0.1:51733
+1629731646675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilehBNP8T"
+1629731647050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilehBNP8T\\search.json.mozlz4", (void 0)))
+1629731649434	Marionette	INFO	Listening on port 51752
+1629731649858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629731679562	Marionette	INFO	Stopped listening on port 51752
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629786966950	geckodriver	INFO	Listening on 127.0.0.1:53573
+1629786970020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileRvppzF"
+1629786970454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileRvppzF\\search.json.mozlz4", (void 0)))
+1629786972777	Marionette	INFO	Listening on port 53589
+1629786973189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629786984084	Marionette	INFO	Stopped listening on port 53589
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629787144282	geckodriver	INFO	Listening on 127.0.0.1:53856
+1629787147326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiletY5VMh"
+1629787147700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofiletY5VMh\\search.json.mozlz4", (void 0)))
+1629787150105	Marionette	INFO	Listening on port 53871
+1629787150506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://code.jquery.com/ui/1.11.4/themes/blitzer/jquery-ui.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+console.error: (new TypeError("container.editor is undefined", "resource://devtools/client/inspector/markup/markup.js", 1619))
+ot '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629787392420	Marionette	INFO	Stopped listening on port 54179
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629787452253	geckodriver	INFO	Listening on 127.0.0.1:54376
+1629787455306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileU8QEKs"
+1629787455682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileU8QEKs\\search.json.mozlz4", (void 0)))
+1629787458066	Marionette	INFO	Listening on port 54393
+1629787458472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629787484480	Marionette	INFO	Stopped listening on port 54393
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629788501913	geckodriver	INFO	Listening on 127.0.0.1:55540
+1629788504993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileBCXJz4"
+1629788505371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileBCXJz4\\search.json.mozlz4", (void 0)))
+1629788507829	Marionette	INFO	Listening on port 55559
+1629788508171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+1629788530789	Marionette	INFO	Stopped listening on port 55559
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629789151776	geckodriver	INFO	Listening on 127.0.0.1:56327
+1629789154812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile6bMT1w"
+1629789155186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile6bMT1w\\search.json.mozlz4", (void 0)))
+1629789157504	Marionette	INFO	Listening on port 56344
+1629789157981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+tify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629789317739	Marionette	INFO	Stopped listening on port 56615
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629789436055	geckodriver	INFO	Listening on 127.0.0.1:56874
+1629789439133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileVX1BHF"
+1629789439510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileVX1BHF\\search.json.mozlz4", (void 0)))
+1629789441497	Marionette	INFO	Listening on port 56892
+1629789441789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629789493870	Marionette	INFO	Stopped listening on port 56892
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629789776386	geckodriver	INFO	Listening on 127.0.0.1:57370
+1629789779431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileqRFHMj"
+1629789779815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofileqRFHMj\\search.json.mozlz4", (void 0)))
+1629789782109	Marionette	INFO	Listening on port 57383
+1629789782624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629789827106	Marionette	INFO	Stopped listening on port 57383
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629790095121	geckodriver	INFO	Listening on 127.0.0.1:57789
+1629790098186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4K8a9L"
+1629790098551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofile4K8a9L\\search.json.mozlz4", (void 0)))
+1629790100917	Marionette	INFO	Listening on port 57801
+1629790101363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629790153551	Marionette	INFO	Stopped listening on port 57801
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1629794268126	geckodriver	INFO	Listening on 127.0.0.1:62204
+1629794271150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilejtISP3"
+1629794271558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\batuh\\AppData\\Local\\Temp\\rust_mozprofilejtISP3\\search.json.mozlz4", (void 0)))
+1629794273927	Marionette	INFO	Listening on port 62213
+1629794274333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510077, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510068, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://yokatlas.yok.gov.tr/2019/lisans.php?y=106510023, line 1115: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 10: SyntaxError: expected expression, got '<'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 18: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+JavaScript error: https://yokatlas.yok.gov.tr/2018/lisans.php?y=106510077, line 1114: TypeError: $.notify is undefined
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js, line 16: SyntaxError: expected expression, got '-'
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js, line 295: Error: Argument given to addRows must be either a number or an array
+1629794328002	Marionette	INFO	Stopped listening on port 62213
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
